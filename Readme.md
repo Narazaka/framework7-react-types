@@ -1,4 +1,4 @@
-# @types/framework7-react
+# framework7-react-types
 
 TypeScript definitions for framework7 v3
 

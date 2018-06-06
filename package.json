@@ -1,5 +1,5 @@
 {
-    "name": "@types/framework7-react",
+    "name": "framework7-react-types",
     "version": "0.1.0",
     "types": "framework7-react.d.ts",
     "dependencies": {
