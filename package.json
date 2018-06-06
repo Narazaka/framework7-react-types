@@ -1,0 +1,14 @@
+{
+    "name": "@types/framework7-react",
+    "version": "0.1.0",
+    "types": "framework7-react.d.ts",
+    "dependencies": {
+        "@types/react": "^16"
+    },
+    "author": "narazaka",
+    "license": "Zlib",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Narazaka/framework7-react-types.git"
+    }
+}
